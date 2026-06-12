@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946382156387",
+    "project_id": "savo-1529a",
+    "storage_bucket": "savo-1529a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946382156387:android:ff283f96e6fd5d23efbe56",
+        "android_client_info": {
+          "package_name": "com.example.savo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkNkQ47qI3dBe-52pYvvYlFUFRWDO-H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
